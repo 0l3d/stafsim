@@ -12,4 +12,4 @@ gcc stafsim.c -o stafsim
 
 # Author
 
-Created By **0l3d**
+Created By **oled**
