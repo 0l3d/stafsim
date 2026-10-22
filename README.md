@@ -5,11 +5,11 @@ Simple starfield simulator in Terminal.
 ## Usage
 
 ```bash
-git clone https://git.sr.ht/~oled/stafsim
+git clone https://github.com/0l3d/stafsim
 gcc stafsim.c -o stafsim
 ./stafsim
 ```
 
 # Author
 
-Created By **oled**
+Created By **0l3d**
